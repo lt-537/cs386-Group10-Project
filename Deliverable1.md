@@ -42,14 +42,12 @@ The interview questions asked were:
 - Assessment: Don't care
 
 **Interview 4**
-- Interviewer: Alyssa Sombrero
-- Interviewee: Jennifer Young
-- When: Feburary 1, 2025
-- Customer Segment: A Native Movie Enthusiast
-- Representative Quote: "What defines a movie to be Indie is its content and producers."
-- Assessment: An Important Factor
-
-
+- Interviewer: Latisha Talayumptewa
+- Interviewee: Hannah Dayzie
+- When: January 30th, 2025 
+- Customer Segment:
+- Representative Quotes: Q4: "Yes, it would feel that opinions would give me recommendations on what to watch". Q5: "Yes, they tend to be underrated".
+- Assessment: Nice to have
 **Interview 5**
 
 **Interview 6**
